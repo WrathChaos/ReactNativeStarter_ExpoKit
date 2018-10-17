@@ -1,8 +1,9 @@
 {
 	"name": "empty-project-template",
-  "main": "node_modules/expo/AppEntry.js",
+	"main": "node_modules/expo/AppEntry.js",
 	"version": "0.0.1",
 	"private": true,
+	"sdkVersion": "30.0.0",
 	"scripts": {
 		"start": "react-native-scripts start",
 		"eject": "react-native-scripts eject",
